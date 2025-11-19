@@ -6,7 +6,7 @@ SIMTERFERE is a is a Python-based, data-driven interferometric simulator designe
 Installation
 ------------
 
-- pip install simterfere
+- pip install git+https://github.com/Manaffel/SIMTERFERE.git
 
 or
 - git clone https://github.com/Manaffel/SIMTERFERE.git
