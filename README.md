@@ -25,4 +25,6 @@ Tutorial
 --------
 In examples you can find "tutorial.py". It is a small script explaining the basic setup of SIMTERFERE.
 
-You need to download two files and add them to "data/tutorial/".
+You need to download two files and add them to "data/tutorial/":
+
+https://zenodo.org/records/17647816
