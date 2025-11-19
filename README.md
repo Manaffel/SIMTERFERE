@@ -21,5 +21,8 @@ or
 - telfit
 - torch
 
-Example Script
---------------
+Tutorial
+--------
+In examples you can find "tutorial.py". It is a small script explaining the basic setup of SIMTERFERE.
+
+You need to download two files and add them to "data/tutorial/".
