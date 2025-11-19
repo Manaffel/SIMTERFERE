@@ -1,0 +1,8 @@
+astropy
+corner
+matplotlib
+numpy
+poppy
+scipy
+telfit
+torch
