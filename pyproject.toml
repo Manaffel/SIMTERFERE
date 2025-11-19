@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "simterfere"
+version = "0.1.0"
+description = "APython-based, data-driven interferometric simulator designed to reproduce VLTI GRAVITY on-axis observations using their associated ancillary data"
+readme = "README.md"
+authors = [
+    { name="Jonas Sauter", email="sauter@mpia.de" }
+]
+requires-python = ">=3.9"
+
+# Optional dependencies your package needs:
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+]
