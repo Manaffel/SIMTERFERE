@@ -9,7 +9,6 @@ from scipy.optimize import curve_fit
 from scipy.special import j1
 from simterfere.wavefront import Wavefront
 from simterfere import config
-import time
 
 class Visibility:
     """
